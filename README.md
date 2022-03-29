@@ -7,3 +7,6 @@ This project is to create a suite for army with active lidar system to protect f
  
 ## Project Status
  Ideation phase. Lacking funds to buy necessary equipment. It will cost atleast 15 lakh to develop a prototype. Any donations are welcome as I will give these technology to Army once POC is complete. Army personnal can use this technology for survellence in boarder areas.
+ 
+ Donation link: https://paypal.me/nogiggle?country.x=IN&locale.x=en_GB
+ People who donated more than 10000 USD will get the detailed documentation on core flying technology once the POC is complete.
