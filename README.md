@@ -7,8 +7,7 @@ This project is to create a suite for army with active lidar system to protect f
  
 ## Project Status
  Ideation phase. Lacking funds to buy necessary equipment. It will cost atleast 15 lakh to develop a prototype. Any donations are welcome as I will give these technology to Army once POC is complete. Army personnal can use this technology for survellence in boarder areas.
- 
- ```
+
  <div id="smart-button-container">
     <div style="text-align: center"><label for="description">Donation for Iron man style suite </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
@@ -127,4 +126,4 @@ This project is to create a suite for army with active lidar system to protect f
   }
   initPayPalButton();
   </script>
-  ```
+
