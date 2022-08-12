@@ -1,3 +1,5 @@
+## I am scrapping the below project as I am getting into lot of problems whenever I think of working on R&D. I may not have national feeling much but my work may be stolen in India. May be these was the reason that I am landing into unwanted problems. anyway no point to work on technology that can make India super power when I don't get respect from even labour who are much younger than me. what's the point if they don't give respect to me which I give to them. 
+
 # Iron-Man-style-Flying-and-Protection
 This project is to create a suite for army with active lidar system to protect from incoming bullets and give ability to fly.
 
@@ -10,3 +12,5 @@ This project is to create a suite for army with active lidar system to protect f
  
  Donation link: https://paypal.me/nogiggle?country.x=IN&locale.x=en_GB
  People who donated more than 10000 USD will get the detailed documentation on core flying technology once the POC is complete.
+ 
+ 
